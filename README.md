@@ -18,12 +18,12 @@ This repo hosts my latest CV, available in multiple formats.
 - `assets/`: Supporting docs or images
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/TSHIAMO-ENTLE/My-CV-repo.git`
+1. Clone the repo:`git clone https://github.com/TSHIAMO-ENTLE/My-CV-repo.git`
 2. Open the files locally 
 
 ## Usage
-- View `CV.pdf` for a quick look
-- Edit `CV.docx` to customize
+- View `CV.pdf`, for a quick look
+- Edit `CV.docx`, to customize
 !assets/My-CV-screenshot.png
 
 ## Contact
