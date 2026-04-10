@@ -28,6 +28,7 @@ This repo hosts my latest CV, available in multiple formats.
 
 ## Contact
 - Email: tshiamoentlemahlangu@gmail.com
+- Tel: 013 442 6718
   
 
 ## Credits
