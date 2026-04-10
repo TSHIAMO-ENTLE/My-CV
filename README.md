@@ -33,3 +33,5 @@ This repo hosts my latest CV, available in multiple formats.
 
 ## Credits
 - Tshiamo-Entle Mahlangu
+ 
+ Improved formatting for Issue 1
