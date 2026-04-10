@@ -1,5 +1,5 @@
 # My CV Repository
-A personal repository containing my professional CV. Showcasing my skills and experience for job applications and networking.
+A personal repository containing my professional CV/reseme. Showcasing my skills and experience for job applications and networking.
 
 ## Table of Contents
 - #about
